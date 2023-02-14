@@ -36,9 +36,7 @@ tags: [2022, ¡elnoticiero!]
 #### Entretenimiento
 
 - 3000 jugadores de Minecraft se reúnen para recrear Nueva York a escala real
-Acá les adjunto un video KSJDKS
-
--> [link](https://www.youtube.com/watch?v=pjkNKJHwVnM&ab_channel=MineFact)
+Acá les adjunto un video KSJDKS -> [link](https://www.youtube.com/watch?v=pjkNKJHwVnM&ab_channel=MineFact)
 
 
 - Super Nintendo World cumplió un año desde su inauguración en Japón

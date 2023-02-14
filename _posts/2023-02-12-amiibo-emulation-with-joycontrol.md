@@ -201,5 +201,8 @@ Thank you to the Joy-Con Droid Discord and the community that made this possible
 - Check this guide [Poohl/joycontrol#4](https://github.com/Poohl/joycontrol/issues/4) for more information about bluetooth compatibility: 
 - I also took a bunch of information from this gist: [Colemickens' Guide](https://gist.github.com/colemickens/b08d1a339f4483c6b3c08e739d6cf5d0)
 
+This guide is algo on GitHub Gists!
+[fixmyblock/Amiibo-Emulation-with-JoyControl-using-a-Linux VM.md](https://gist.github.com/fixmyblock/5e72775f2fef9247461e9f1e4ec790a8)
+
 :D
 \- Maxi
