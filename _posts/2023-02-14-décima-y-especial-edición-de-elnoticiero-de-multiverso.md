@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: Décima (especial) edición de ¡el noticiero! de Multiverso.
-author: Maxi, Kannon, Yisus, Tinys, Alejandro
+title: \Décima (especial) edición de ¡el noticiero! de Multiverso.
+author: Maxi, Kannon, Yisus
 tags: [2023, other, ¡elnoticiero!]
 
 ---
@@ -22,6 +22,7 @@ Ah, y también, feliz día del amor. :sparkling_heart:
 
 > No hagas menciones al San Valentín en el noticiero, pero te lo imploro, pon esto - Kannon
 ![imagen chistosa](https://cdn.discordapp.com/attachments/982836565204148224/1074940024216354876/unknown-156.png)
+
 ![:JAJASUBNORMAL:](https://cdn.discordapp.com/emojis/827656587681333289.webp?size=32&quality=lossless)
 
 Sin dar más vueltas, empecemos con el noticiero, ¿no les parece?
