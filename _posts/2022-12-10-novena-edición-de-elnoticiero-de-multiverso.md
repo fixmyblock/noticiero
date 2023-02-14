@@ -49,7 +49,7 @@ tags: [2022, other, ¡elnoticiero!]
     
 - **Putin: "El riesgo nuclear aumenta, pero no estamos locos.** Vladimir Putin ha afirmado que la amenaza de una guerra nuclear va en aumento, pero insistió en que Rusia no se había "vuelto loca" y no utilizaría primero sus armas nucleares.
     
-    [link](https://www.bbc.com/news/world-europe-63893316](https://www.bbc.com/news/world-europe-63893316)
+    [link](https://www.bbc.com/news/world-europe-63893316)
     
 
 Y con esto terminaríamos ¡el noticiero! por hoy, muchas gracias por leer y los espero en la próxima oportunidad. 
