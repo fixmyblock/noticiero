@@ -17,8 +17,8 @@ Acá tienen una imagen conmemorativa de la celebración de esta ocasión tan par
 ---
 Concluyendo con la introducción, ¡muchísimas gracias por todo el recibimiento que ha tenido esta serie de noticias!
 
-Ah, y también, feliz día del amor. :sparkling_heart: 
-¡Feliz 14 de febrero para todos, incluso a quienes están solos! 
+Ah, y también, feliz día del amor y la amistad. 💖
+¡Feliz 14 de febrero para todos, incluso a quienes están solos!
 
 > No hagas menciones al San Valentín en el noticiero, pero te lo imploro, pon esto - Kannon
 ![imagen chistosa](https://cdn.discordapp.com/attachments/982836565204148224/1074940024216354876/unknown-156.png)
@@ -78,10 +78,11 @@ Por triste que suene, nadie extrañará a 'Windows 8.1' por su menú de inicio, 
 ![dibujo de Mickey Mouse](https://cdn.discordapp.com/attachments/982836565204148224/1074941549491785748/image.png)
 
 ---
-Y sin más, llegamos finalmente al término de este noticiero. No tengo una fecha clara para el próximo, solo espero que sea en estas semanas (antes de que deba volver a clases :pensive:).
+Y sin más, llegamos finalmente al término de este noticiero. No tengo una fecha clara para el próximo, solo espero que sea **en estas semanas** (antes de que deba volver a clases 😔).
 
 Nuevamente, les agradezco todo este tiempo y todo el cariño que he recibido, y espero que siga así en el futuro, para tener una inspiración constante. 
 
+- Disclaimer
 > Ningún colombiano fue maltratado en la producción de este noticiero.
 
 ### FIN
