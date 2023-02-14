@@ -13,7 +13,7 @@ tags: [2022, other, ¡elnoticiero!]
     
 - **La FTC (Federal Trade Commission) demanda para intentar prohibir la compra de Activision Blizzard por Microsoft.** Se declara que sería una de las compras de empresa más grandes de los últimos tiempos, con $69bn en la mesa.
     
-    https://www.bbc.com/news/business-63911557](https://www.bbc.com/news/business-63911557 "https://www.bbc.com/news/business-63911557")
+    https://www.bbc.com/news/business-63911557
     
 - **Joven sube al escenario al final de la premiación de los Game Awards.** Según la fuente de información https://codigoespagueti.com/, se presume que: "el niño ha salido en programas antisemitas y muy racistas, como Info Wars, sitio en el que parece haber sacado ideas algo extrañas como decirle judío reformado a Clinton." Sin duda una situación algo bastante extraña para la ocasión.
     

@@ -2,7 +2,7 @@
 layout: post
 title: Tomodachi life, ¿mejor que Animal Crossing?
 author: Yisus
-tags: [2023, other, gaming]
+tags: [2023, other, games]
 ---
 
 _Hola mis queridos espectadores de multiverso news! Hoy estaré hablando de el éxito que fue Tomodachi life, y porque Nintendo debería traer este juego devuelta a las consolas._ Pero primero, _**Que es Tomodachi life?**_
