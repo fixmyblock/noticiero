@@ -18,13 +18,13 @@ Adjunto fotos, cortesía de ![@Luz Chikita#6004](.)
 
 En reportajes de la BBC, hoy tenemos: 
 > "El lado oscuro de los AirTags de Apple: "Son una herramienta perfecta para acosar"
-> https://www.bbc.com/mundo/noticias-60078354
+[link](https://www.bbc.com/mundo/noticias-60078354)
 En este artículo se explica que pueden ser usados para “Posibles actividades delictivas”
 
 En noticias aún más importantes, Corea del Norte disparó **dos** misiles de crucero en la mañana de este martes, según el Ejército de Corea del Sur.
-> https://cnnespanol.cnn.com/2022/01/25/core-del-norte-misiles-prueba-trax/
+[link](https://cnnespanol.cnn.com/2022/01/25/core-del-norte-misiles-prueba-trax/)
 
 En noticias muy (????), una casa patas arriba en Colombia, JAJAJA
-> \https://cnnespanol.cnn.com/video/de-cabeza-mira-esta-nueva-atraccion-que-llama-la-atencion-en-colombia/
+[link](https://cnnespanol.cnn.com/video/de-cabeza-mira-esta-nueva-atraccion-que-llama-la-atencion-en-colombia/)
 
 Sin más, eso es todo por hoy JSKAJSA, gracias 💖
