@@ -2,7 +2,7 @@
 layout: post
 title: Amiibo Emulation with JoyControl using a Linux VM.
 author: Maxi
-tags: [2022, guide, gaming]
+tags: [2023, guide, gaming]
 
 ---
 
