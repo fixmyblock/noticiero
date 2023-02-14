@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: n\Décima (especial) edición de ¡el noticiero! de Multiverso.
-author: Maxi, Kannon, Yisus
+title: \Décima (especial) edición de ¡el noticiero! de Multiverso.
+author: Maxi, Kannon, Yisus, Tinys, Alejandro
 tags: [2023, other, ¡elnoticiero!]
 
 ---
@@ -9,10 +9,9 @@ tags: [2023, other, ¡elnoticiero!]
 ## ¡Buenas Multiverso! :D
 4:40p.m. GMT-3 (Chile Summer Time)
 
-Finalmente hemos llegado al décimo "¡el noticiero!" de Multiverso, después de tantas noticias y bastante tiempo entre ellas (prácticamente meses de separación en algunos casos) finalmente llegamos. Y pensar que estábamos apenas en el quinto noticiero en esta misma fecha... 
+Finalmente hemos llegado al décimo "¡el noticiero!" de Multiverso, después de tantas noticias y bastante tiempo entre ellas (prácticamente meses de separación en algunos casos) finalmente llegamos. Y pensar que estábamos apenas en el quinto noticiero en esta misma fecha...\
 Acá tienen una imagen conmemorativa de la celebración de esta ocasión tan particular.
 
-  
 ![img](website)
 
 ---
@@ -36,13 +35,12 @@ El particular juego 'Indie' ha demostrado ganarse el corazón de los jugadores d
 
 ![el de las pizzas](https://cdn.discordapp.com/attachments/815318532727242783/1074911515162988595/c66.jpg)
 
-  
 ---
 #### Trailer de la película de Mario Bros
 
 ¡Salió el tráiler de la película de Mario Bros! Este mismo incluye un link a la página oficial de la película, el cual incluye un número de teléfono al cual tú puedes llamar y te contesta un mensaje pregrabado del mismísimo Luigi. Un pequeño easter egg bastante simpático de Nintendo.
 
-Acá pueden ver cómo suena la pregrabación de este mensaje:\ 
+Acá pueden escuchar la pregrabación de este mensaje:\
 -> [demostración (video de YouTube)](https://www.youtube.com/watch?v=QpU9D-QOgws)
 
 Olvidé mencionar, aquí tienen parte de otro easter-egg de la página web oficial de la película\
@@ -76,8 +74,7 @@ Por triste que suene, nadie extrañará a 'Windows 8.1' por su menú de inicio, 
 #### Disney’s 100th anniversary
 "El siglo de Disney" así lo podemos catalogar, se celebra un siglo entero de Mickey Mouse estando en el foco, ellos quisieron celebrar a su manera haciendo un montaje:
 > Disney has released a montage to celebrate
--> [montaje de Disney en Twitter](https://twitter.com/CCNCartoonNews/status/1624824351441690626)
-
+-> [montaje de Disney en Twitter](https://twitter.com/CCNCartoonNews/status/1624824351441690626)\
 ![dibujo de Mickey Mouse](https://cdn.discordapp.com/attachments/982836565204148224/1074941549491785748/image.png)
 
 ---
