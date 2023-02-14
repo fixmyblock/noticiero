@@ -8,7 +8,7 @@ tags: [2022, other, ¡elnoticiero!]
 ¡Buenos/as días/tardes Multiverso! 
 Bienvenidos a la **quinta edición** del noticiero![:tikoi:](https://cdn.discordapp.com/emojis/879722861206601768.webp?size=44&quality=lossless)
 
- Antes de empezar las noticias, les deseo un feliz 14 de febrero a todos, día de la amistad y el amor, aunque estén solos, se les quiere mucho <3 :sparkling_heart: 
+ Antes de empezar las noticias, les deseo un feliz 14 de febrero a todos, día de la amistad y el amor, aunque estén solos, se les quiere mucho <3 💖
 
 
 #### Empezamos con noticias de juegos y empresas KSAJSJA

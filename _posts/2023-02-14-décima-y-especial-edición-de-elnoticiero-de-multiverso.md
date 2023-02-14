@@ -10,7 +10,7 @@ tags: [2023, other, ¡elnoticiero!]
 4:40p.m. GMT-3 (Chile Summer Time)
 
 Finalmente hemos llegado al décimo "¡el noticiero!" de Multiverso, después de tantas noticias y bastante tiempo entre ellas (prácticamente meses de separación en algunos casos) finalmente llegamos. Y pensar que estábamos apenas en el quinto noticiero en esta misma fecha...\
-Acá tienen una imagen conmemorativa de la celebración de esta ocasión tan particular.
+Acá tienen una imagen conmemorativa de la celebración de esta ocasión tan particular. :D
 
 ![img](website)
 
@@ -18,7 +18,7 @@ Acá tienen una imagen conmemorativa de la celebración de esta ocasión tan par
 Concluyendo con la introducción, ¡muchísimas gracias por todo el recibimiento que ha tenido esta serie de noticias!
 
 Ah, y también, feliz día del amor. :sparkling_heart: 
-¡Feliz 14 de febrero para todos, incluso quienes están solos! 
+¡Feliz 14 de febrero para todos, incluso a quienes están solos! 
 
 > No hagas menciones al San Valentín en el noticiero, pero te lo imploro, pon esto - Kannon
 ![imagen chistosa](https://cdn.discordapp.com/attachments/982836565204148224/1074940024216354876/unknown-156.png)
@@ -58,15 +58,15 @@ Como ustedes sabrán, 'Windows 8.1' no fue muy aclamado por la crítica, siendo 
 
 - _Un pequeño overview de 'Windows 8'_
 
-'Windows 8' fue realmente un paso en medio de lo que sería a la final Windows 10, podríamos decir que fue como una especie de mezcla entre '7' y '10', pero no del todo, tenía sus pequeños avances como por ejemplo la 'Microsoft Store' y compatibilidad con nuevo hardware y software. En resumidas cuentas esto no fue suficiente para 'Windows 8' se sostuviera, quitarle una funcionalidad tan importante a los usuarios solo para favorecer a usuarios de una plataforma (las tabletas) con una cantidad de usuarios considerablemente menor a la de escritorio realmente les cayó mal. 'Windows 8.1' devolvió la funcionalidad de manera parcial, ofreciendo el botón de inicio nuevamente pero a pantalla completa (de la misma manera que lo hizo '8'), pero el daño ya estaba hecho.
+'Windows 8' fue realmente un paso en medio de lo que sería a la final 'Windows 10', podríamos decir que fue como una especie de mezcla entre '7' y '10', pero no del todo, tenía sus pequeños avances como por ejemplo la 'Microsoft Store' y compatibilidad con nuevo hardware y software. En resumidas cuentas esto no fue suficiente para 'Windows 8' se sostuviera, quitarle una funcionalidad tan importante a los usuarios solo para favorecer a usuarios de una plataforma (las tabletas) con una cantidad de usuarios considerablemente menor a la de escritorio realmente les cayó mal. 'Windows 8.1' devolvió la funcionalidad de manera parcial, ofreciendo el botón de inicio nuevamente pero a pantalla completa (de la misma manera que lo hizo '8'), pero el daño ya estaba hecho.
 
 - _¿En qué afectará a las empresas?_
 
-Es importante mencionar que tanto como 'Windows 8' como '8.1' tenían los mismos requerimientos básicos de sistema, lo que en cierta forma ayuda a las empresas a no tener que invertir en nuevas máquinas. Como mencionamos también, al ser una especie de mezcla, tenía una mayor compatibilidad con el software de 'Windows 7' que 'Windows 10' pudiera tener, esto afecta directamente a las empresas, ya que si su software de ninguna manera es compatible con 'Windows 10' no podrá usarlo y deberá contratar a programadores especializados en el área, lo que significa más gasto para las empresas, lo que genera que las empresas no quieran actualizar o se mantengan en la última versión compatible y causa que haya más vulnerabilidad a viruses en general para ese mercado.
+Es importante mencionar que tanto como 'Windows 7' como '8.1' tenían los mismos requerimientos básicos de sistema, lo que en cierta forma ayuda a las empresas a no tener que invertir en nuevas máquinas. Como mencionamos también, al ser una especie de mezcla, tenía una mayor compatibilidad con el software de 'Windows 7' que 'Windows 10' pudiera tener, esto afecta directamente a las empresas, ya que si su software de ninguna manera es compatible con 'Windows 10' no podrá usarlo y deberá contratar a programadores especializados en el área, lo que significa más gasto para las empresas, lo que genera que las empresas no quieran actualizar o se mantengan en la última versión compatible y causa que haya más vulnerabilidad a viruses en general para ese mercado.
 
 - _En conclusión_
 
-Por triste que suene, nadie extrañará a 'Windows 8.1' por su menú de inicio, pero sí por el legado que dejó y los avances tecnológicos que surgieron apartir de él.
+Por triste que suene, nadie extrañará a 'Windows 8.1' por su menú de inicio, ni por sus caracterísicas denominadas por Microsoft como 'adelantadas a su época', pero sí por el legado que dejó y los avances tecnológicos que surgieron apartir de él.
 
 ![enter image description here](https://media.discordapp.net/attachments/982836565204148224/1074920454508257300/878469.jpg)
 ---

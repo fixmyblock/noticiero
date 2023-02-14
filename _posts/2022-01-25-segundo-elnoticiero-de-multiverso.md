@@ -6,7 +6,7 @@ tags: [2022, other, ¡elnoticiero!]
 ---
 
 ¡Buenas Tardes Multiverso! :D
-Bienvenidos a una nueva edición de, ¡el noticiero! :sunglasses:
+Bienvenidos a una nueva edición de, ¡el noticiero! 😎
 
 Nos vamos directamente a noticias internacionales, nos informaron que se están realizando hackeos en Discord con usuarios reales (???), no bots, usan tu username para referirse a ti, y te piden que pruebes un juego, que supuestamente es de su amigo (ese link obviamente los 'hackea').
 

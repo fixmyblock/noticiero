@@ -5,7 +5,7 @@ author: Maxi
 tags: [2022, other, ¡elnoticiero!]
 ---
 
-¡Buenas Tardes Multiverso! :3 :sunglasses:
+¡Buenas Tardes Multiverso! :3 😎
 Bienvenidos a la tercera edición de, ¡el noticiero! B)
 
 Vamos a noticias internacionales, el día de hoy tenemos:
@@ -19,7 +19,8 @@ Vamos a noticias internacionales, el día de hoy tenemos:
 - Sismo de **magnitud 5,5 **sacude Chile y se siente en Perú
 -> [link](https://cnnespanol.cnn.com/2022/01/27/sismo-de-magnitud-55-en-chile-orix/)
 
-En categoría de Ciencia y Tecnología :gatocolgate:, tenemos:
+En categoría de Ciencia y Tecnología, tenemos:
+> ![:gatocolgate:](https://cdn.discordapp.com/emojis/866492083110674433.webp?size=32&quality=lossless)
 
 - Malas noticias para usuarios de Twitch, Twitch filtra un programa de incentivo para los streamers que **podría inundar la plataforma de anuncios publicitarios**
 -> [link](https://www.fayerwayer.com/entretenimiento/2022/01/28/twitch-filtra-un-programa-de-incentivo-para-los-streamers-que-podria-inundar-la-plataforma-de-anuncios-publicitarios/)
@@ -32,4 +33,4 @@ En categoría (???), tenemos:
 - Mujer es acusada de 'acosar' a CEO de Apple, Tim Cook: compañía toma acciones legales
 -> [link](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/pc-e-internet/2022/01/27/mujer-es-acusada-de-insistente-acoso-a-ceo-de-apple-tim-cook-compania-toma-acciones-legales.shtml)
 
-Y eso es todo por las noticias de hoy, muchas gracias por leer KJSAKJSAK :sob:
+Y eso es todo por las noticias de hoy, muchas gracias por leer KJSAKJSAK 😭

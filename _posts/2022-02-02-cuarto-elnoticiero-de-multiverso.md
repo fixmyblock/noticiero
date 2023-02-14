@@ -5,7 +5,7 @@ author: Maxi
 tags: [2022, other, ¡elnoticiero!]
 ---
 
-¡Buenas Tardes Multiverso! :sunglasses:
+¡Buenas Tardes Multiverso! 😎
 Bienvenidos a la cuarta edición del noticiero, edición vespertina/nocturna
 
 Empezamos rápidamente con noticias internacionales
@@ -30,4 +30,4 @@ Según la página "tarreo.com":
 
 
 Sin más, esto es todo por hoy en las noticias, la próxima edición será el día 4 de febrero.
-Los tkm :sparkling_heart:
+Los tkm 💖
