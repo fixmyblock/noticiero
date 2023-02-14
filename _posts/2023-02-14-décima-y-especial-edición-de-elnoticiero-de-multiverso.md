@@ -38,7 +38,7 @@ El particular juego 'Indie' ha demostrado ganarse el corazón de los jugadores d
 ---
 #### Trailer de la película de Mario Bros
 
-¡Salió el tráiler de la película de Mario Bros! Este mismo incluye un link a la página oficial de la película, el cual incluye un número de teléfono al cual tú puedes llamar y te contesta un mensaje pregrabado del mismísimo Luigi. Un pequeño easter egg bastante simpático de Nintendo.
+¡Salió un nuevo tráiler de la película de Mario Bros! Este mismo incluye un link a la página oficial de la película, el cual incluye un número de teléfono al cual tú puedes llamar y te contesta un mensaje pregrabado del mismísimo Luigi. Un pequeño easter egg bastante simpático de Nintendo.
 
 Acá pueden escuchar la pregrabación de este mensaje:\
 -> [demostración (video de YouTube)](https://www.youtube.com/watch?v=QpU9D-QOgws)
