@@ -12,7 +12,7 @@ tags: [2023, ¡elnoticiero!]
 Finalmente hemos llegado al décimo "¡el noticiero!" de Multiverso, después de tantas noticias y bastante tiempo entre ellas (prácticamente meses de separación en algunos casos) finalmente llegamos. Y pensar que estábamos apenas en el quinto noticiero en esta misma fecha...\
 Acá tienen una imagen conmemorativa de la celebración de esta ocasión tan particular. :D
 
-![img](website)
+![Celebración de diez noticieros](https://cdn.discordapp.com/attachments/976689932020109414/1075130216101466213/Ilustracion_sin_titulo.png)
 
 ---
 Concluyendo con la introducción, ¡muchísimas gracias por todo el recibimiento que ha tenido esta serie de noticias!
