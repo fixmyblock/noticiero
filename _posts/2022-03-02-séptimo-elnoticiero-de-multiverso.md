@@ -15,11 +15,8 @@ En este preciso momento:
 En las últimas horas:
 - Epic Games adquiere bandcamp
 BandCamp declara (translated with Google Translate) "Unirse a Epic Games le permitirá expandirse internacionalmente e impulsar el desarrollo en toda la plataforma, incluido el trabajo en aplicaciones móviles y herramientas comerciales, así como funciones de búsqueda y descubrimiento."
+-> [link](https://www.ign.com/articles/fortnite-bandcamp-epic-games?utm_source=twitter)
 
-Links:
-https://www.ign.com/articles/fortnite-bandcamp-epic-games?utm_source=twitter
-
-  
 
 Esto es todo por ahora, mañana otra edición de ¡el noticiero! 
 ![:gatocolgate:](https://cdn.discordapp.com/emojis/866492083110674433.webp?size=44&quality=lossless) 

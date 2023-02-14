@@ -43,10 +43,10 @@ Apple creará iMacs con Notch que presumirán Face ID (bastante innecesario en m
 
 - Noticia de la BBC: "Imperialismo de la basura": por qué América Latina se ha convertido en "el nuevo basurero" de EE.UU.
 
-> [https://twitter.com/nintendoeurope/status/1493147824384626688](https://twitter.com/nintendoeurope/status/1493147824384626688 "https://twitter.com/nintendoeurope/status/1493147824384626688") 
-> [https://www.xataka.com/videojuegos/alguien-creo-fps-donde-te-dedicabas-a-matar-pokemon-ahora-nintendo-ha-conseguido-tumbarlo](https://www.xataka.com/videojuegos/alguien-creo-fps-donde-te-dedicabas-a-matar-pokemon-ahora-nintendo-ha-conseguido-tumbarlo "https://www.xataka.com/videojuegos/alguien-creo-fps-donde-te-dedicabas-a-matar-pokemon-ahora-nintendo-ha-conseguido-tumbarlo")
->  [https://www.xataka.com/videojuegos/epic-recibe-respaldo-microsoft-35-fiscales-eeuu-otros-su-lucha-monopolio-apple-app-store](https://www.xataka.com/videojuegos/epic-recibe-respaldo-microsoft-35-fiscales-eeuu-otros-su-lucha-monopolio-apple-app-store "https://www.xataka.com/videojuegos/epic-recibe-respaldo-microsoft-35-fiscales-eeuu-otros-su-lucha-monopolio-apple-app-store") 
->  [https://www.bbc.com/mundo/noticias-america-latina-60342651](https://www.bbc.com/mundo/noticias-america-latina-60342651 "https://www.bbc.com/mundo/noticias-america-latina-60342651") 
->  [https://www.bbc.com/mundo/noticias-america-latina-59874573](https://www.bbc.com/mundo/noticias-america-latina-59874573 "https://www.bbc.com/mundo/noticias-america-latina-59874573")
+>  [https://twitter.com/nintendoeurope/status/1493147824384626688](https://twitter.com/nintendoeurope/status/1493147824384626688) 
+>  [https://www.xataka.com/videojuegos/alguien-creo-fps-donde-te-dedicabas-a-matar-pokemon-ahora-nintendo-ha-conseguido-tumbarlo](https://www.xataka.com/videojuegos/alguien-creo-fps-donde-te-dedicabas-a-matar-pokemon-ahora-nintendo-ha-conseguido-tumbarlo)
+>  [https://www.xataka.com/videojuegos/epic-recibe-respaldo-microsoft-35-fiscales-eeuu-otros-su-lucha-monopolio-apple-app-store](https://www.xataka.com/videojuegos/epic-recibe-respaldo-microsoft-35-fiscales-eeuu-otros-su-lucha-monopolio-apple-app-store) 
+>  [https://www.bbc.com/mundo/noticias-america-latina-60342651](https://www.bbc.com/mundo/noticias-america-latina-60342651) 
+>  [https://www.bbc.com/mundo/noticias-america-latina-59874573](https://www.bbc.com/mundo/noticias-america-latina-59874573)
 
- Y esto es todo por hoy gente, como siempre, los espero para la próxima edición del noticiero :3 ![💖](https://canary.discord.com/assets/8544ea5ce32fd9e17df806eb1cfeab47.svg)
+ Y esto es todo por hoy gente, como siempre, los espero para la próxima edición del noticiero :3 💖

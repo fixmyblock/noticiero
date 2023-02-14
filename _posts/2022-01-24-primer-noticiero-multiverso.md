@@ -22,10 +22,10 @@ Las secciones se van a tratar de lo que se vaya encontrando relevante en el serv
 Y noticias internacionales:
 
 - En Arabia Saudita, una niña abrazó a un perro para sobrevivir una tormenta de nieve en medio del desierto 
-![link](https://cnnespanol.cnn.com/2022/01/22/nina-rusa-sobrevive-tormenta-de-nieve-abrazando-a-un-perro-trax/)
+-> [link](https://cnnespanol.cnn.com/2022/01/22/nina-rusa-sobrevive-tormenta-de-nieve-abrazando-a-un-perro-trax/)
 
 - Un diamante negro encontrado supuestamente en el espacio se pone a la venta por 6,8 Millones de Dólares, será exhibido en Dubai, y se pondrá a la venta en febrero de este año
-![link](https://cnnespanol.cnn.com/video/diamante-negro-sothebys-espacio-requena-panorama-cnne/)
+-> [link](https://cnnespanol.cnn.com/video/diamante-negro-sothebys-espacio-requena-panorama-cnne/)
 
 Sin más eso es todo por la edición de hoy, muchas gracias JSAKJSA 💖
 

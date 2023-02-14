@@ -5,7 +5,7 @@ author: Yisus
 tags: [2023, other, games]
 ---
 
-_Hola mis queridos espectadores de multiverso news! Hoy estaré hablando de el éxito que fue Tomodachi life, y porque Nintendo debería traer este juego devuelta a las consolas._ Pero primero, _**Que es Tomodachi life?**_
+_Hola mis queridos espectadores de multiverso news! Hoy estaré hablando de el éxito que fue Tomodachi life, y porque Nintendo debería traer este juego devuelta a las consolas._ Pero primero, _**¿Qué es Tomodachi life?**_
     
 > Tomodachi Life, llamado en Japón Tomodachi Collection: New Life (トモダチコレクション 新生活 Tomodachi Korekushon: Shin Seikatsu), es un videojuego de simulación social desarrollado y publicado por Nintendo para la consola Nintendo 3DS. Se trata de la secuela del juego Tomodachi Collection para Nintendo DS, que sólo salió a la venta en Japón. Salió a la venta el 18 de abril de 2013 en Japón y el 6 de junio de 2014 en Europa y América.
     
