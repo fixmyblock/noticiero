@@ -2,7 +2,7 @@
 layout: post
 title: Cuarto ¡el noticiero! de Multiverso.
 author: Maxi
-tags: [2022, other, ¡elnoticiero!]
+tags: [2022, ¡elnoticiero!]
 ---
 
 ¡Buenas Tardes Multiverso! 😎

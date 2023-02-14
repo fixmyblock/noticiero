@@ -2,7 +2,7 @@
 layout: post
 title: Novena edición de ¡el noticiero! de Multiverso.
 author: Maxi
-tags: [2022, other, ¡elnoticiero!]
+tags: [2022, ¡elnoticiero!]
 ---
 
 **¡el noticiero!** Novena Edición Completa Buenas tardes/noches para todos, hoy les presento la novena edición del noticiero de Multiverso El índice de la sección de hoy consistirá en:

@@ -2,7 +2,7 @@
 layout: post
 title: Pasos para reemplazar el nuevo sonido "Oof" de Roblox con el anterior.
 author: Maxi
-tags: [2022, other, gaming]
+tags: [2022, guide, games]
 ---
 
   
@@ -29,7 +29,7 @@ content → sounds
   
 y reemplazan "ouch.ogg" por el que descargaron.
 
-4. Disfrutar
+**3.** Disfrutar
 
 ![:FloppaFino:](https://cdn.discordapp.com/emojis/927698282807984178.webp?size=44&quality=lossless)
 

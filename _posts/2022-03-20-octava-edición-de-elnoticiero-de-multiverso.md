@@ -2,7 +2,7 @@
 layout: post
 title: Octava edición de ¡el noticiero! de Multiverso.
 author: Maxi
-tags: [2022, other, ¡elnoticiero!]
+tags: [2022, ¡elnoticiero!]
 ---
 
 ¡Buenas noches gente de Multiverso! Bienvenidos a una nueva edición completa de ¡el noticiero! (Octava Edición)

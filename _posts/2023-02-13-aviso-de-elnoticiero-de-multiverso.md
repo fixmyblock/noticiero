@@ -2,7 +2,7 @@
 layout: post
 title: Aviso de ¡el noticiero! de Multiverso.
 author: Maxi
-tags: [2023, other, ¡elnoticiero!]
+tags: [2023, ¡elnoticiero!]
 ---
 
 ## Edición "¡el mini-noticiero!" de Multiverso

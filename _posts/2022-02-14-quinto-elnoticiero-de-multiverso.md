@@ -2,7 +2,7 @@
 layout: post
 title: Quinto ¡el noticiero! de Multiverso.
 author: Maxi
-tags: [2022, other, ¡elnoticiero!]
+tags: [2022, ¡elnoticiero!]
 ---
 
 ¡Buenos/as días/tardes Multiverso! 

@@ -2,7 +2,7 @@
 layout: post
 title: Se libera el código fuente del popular emulador de Wii U, “Cemu”.
 author: Maxi
-tags: [2022, emu, games, ¡el mini-noticiero!]
+tags: [2022, emu, games, ¡el-mini-noticiero!]
 ---
 
 __Noticia sobre emulación__

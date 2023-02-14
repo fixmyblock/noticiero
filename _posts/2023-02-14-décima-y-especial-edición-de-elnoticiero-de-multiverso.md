@@ -2,7 +2,7 @@
 layout: post
 title: Décima (especial) edición de ¡el noticiero! de Multiverso.
 author: Maxi, Kannon, Yisus, Tinys, Alejandro
-tags: [2023, other, ¡elnoticiero!]
+tags: [2023, ¡elnoticiero!]
 
 ---
 

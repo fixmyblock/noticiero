@@ -2,7 +2,7 @@
 layout: post
 title: Séptimo ¡el noticiero! de Multiverso.
 author: Maxi
-tags: [2022, other, ¡elnoticiero!]
+tags: [2022, ¡elnoticiero!]
 ---
 
 Buenas tardes y bienvenidos a ¡el noticiero! en Multiverso Versión Mini (séptima edición)

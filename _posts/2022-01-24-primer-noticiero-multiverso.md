@@ -2,7 +2,7 @@
 layout: post
 title: Primer 'noticiero' de Multiverso.
 author: Maxi
-tags: [2022, other, ¡elnoticiero!]
+tags: [2022, ¡elnoticiero!]
 ---
 
 OMG, digo
