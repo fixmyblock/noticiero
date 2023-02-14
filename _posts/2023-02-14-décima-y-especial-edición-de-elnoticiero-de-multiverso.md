@@ -7,7 +7,7 @@ tags: [2023, ¡elnoticiero!]
 ---
 
 ## ¡Buenas Multiverso! :D
-4:40p.m. GMT-3 (Chile Summer Time)
+4:45p.m. GMT-3 (Chile Summer Time)
 
 Finalmente hemos llegado al décimo "¡el noticiero!" de Multiverso, después de tantas noticias y bastante tiempo entre ellas (prácticamente meses de separación en algunos casos) finalmente llegamos. Y pensar que estábamos apenas en el quinto noticiero en esta misma fecha...\
 Acá tienen una imagen conmemorativa de la celebración de esta ocasión tan particular. :D
