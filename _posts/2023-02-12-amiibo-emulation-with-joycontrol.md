@@ -5,7 +5,6 @@ author: Maxi
 tags: [2022, guide, gaming]
 
 ---
-# Amiibo Emulation with JoyControl using a Linux VM!
 
 These instructions will help you set up [joycontrol](https://github.com/Poohl/joycontrol.git) on any PC* using a Virtual Machine Software like VirtualBox and a Bluetooth Dongle.
 
