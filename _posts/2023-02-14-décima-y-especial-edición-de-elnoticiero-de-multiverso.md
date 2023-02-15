@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Décima (especial) edición de ¡el noticiero! de Multiverso.
-author: Maxi, Yisus, Kannon, Tinys, Alejandro
+author: Maxi, Kannon, Yisus, Tinys, Alejandro
 tags: [2023, ¡elnoticiero!]
 
 ---
@@ -13,6 +13,7 @@ Finalmente hemos llegado al décimo "¡el noticiero!" de Multiverso, después de
 Acá tienen una imagen conmemorativa de la celebración de esta ocasión tan particular. :D
 
 ![Celebración de diez noticieros](https://cdn.discordapp.com/attachments/976689932020109414/1075130216101466213/Ilustracion_sin_titulo.png)
+* Ilustración de Yisus
 
 ---
 Concluyendo con la introducción, ¡muchísimas gracias por todo el recibimiento que ha tenido esta serie de noticias!
